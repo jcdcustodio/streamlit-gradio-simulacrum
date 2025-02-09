@@ -24,8 +24,8 @@ gradio_build = [
 
 The optional-dependencies are grouped and labeled accordingly.
 
-2. To switch to the Streamlit build, type `uv sync --extra streamlit_build`
-3. To switch to the Gradio build, type `uv sync --extra gradio_build`
+2. To switch to the Streamlit build, type `uv sync --extra streamlit`
+3. To switch to the Gradio build, type `uv sync --extra gradio`
 
 ### Launching the application
 1. Streamlit
