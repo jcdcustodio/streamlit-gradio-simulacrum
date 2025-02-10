@@ -3,3 +3,6 @@
 
 # Ignore presentation materials
 .ref
+
+# Ignore settings
+.vscode
