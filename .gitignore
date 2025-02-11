@@ -1,8 +1,9 @@
 # Ignore venv directory
 .venv
 
-# Ignore presentation materials
+# Ignore certain directories
 .ref
+.samples
 
 # Ignore settings
 .vscode
